@@ -6,4 +6,3 @@
 <input type="text" value="https://venkateshhDasari.github.io/" readonly>
 
 
-<a href="mailto:">Click Here To Mail Me</a>
